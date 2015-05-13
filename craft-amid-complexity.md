@@ -65,3 +65,7 @@
 
 - **Evangelism, Adoption, Impact**. Had to sell design system to engineering teams.
 - **Organizational Evolution, Design System Evolution**. Don’t want to limit variation and good design. Created design system extensions for different verticals — marketing communications, healthcare, etc.
+
+- Next-gen design system will allow a reduction in the number of components, while creating signature elements.
+- “Full-stack Widgets.” More than just UI, but functionality as well.
+- Increase focus on extendability and contribution.
