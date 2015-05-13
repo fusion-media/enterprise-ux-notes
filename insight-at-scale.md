@@ -111,3 +111,7 @@ Tools include:
 - **Ethno Probing**. Establish areas of priority and needs.
 - **Storytelling**. Tell stories via audio, video, and journey mapping.
 - **Insight Studies**. Diary studies over time to monitor real-time, ongoing use and retention.
+
+Organizations used to be silo’d. Progressive organizations are experience-driven and have data flowing into and out of the UX team all the time.
+
+Strategy should match culture.
