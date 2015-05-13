@@ -86,3 +86,28 @@ Example:
 1. **Data shifts the conversation from “I think” to “I know.”**
 2. **Data brings focus to the design process.**
 3. **Design brings data to life.**
+
+
+## Emotion Economy: Ethnography as Corporate Strategy
+- Information and complexity are increasing at exponential rates. People’s ability to cope with that change is increasing linearly.
+- We need to understand where our end users are in their ability to cope with change. Innovation is possible nearby.
+- Highly complex market and dynamic factors create a cultural flux because all areas are moving simultaneously.
+- Due to cultural flux, probing into “areas of interest” reveals opportunities for innovation.
+- Emotional equity is continuing to rise. Value involves capturing both the hearts and minds of customers. Hearts = emotions.
+- Emotional equity includes aspiration, connection, identity, trust, and ease-of-use. Maps to Maslow’s Hierarchy.
+- Hierarchy of research methods to understand user needs:
+	- Ethnography
+	- Field Studies
+	- 1:1 Interviews
+	- Focus Groups
+	- Online Surveys
+	- Big Data
+
+- **Thick Data** reveals the social context and connections between data points.
+
+- **Rapid Ethnography** is a short cycle of in-depth interviews and observation at key contextual times. Targeted hypothesis, representative sample used to create journey maps and behavioral personae. Includes video ethnography, digital diaries, and micro-surveys.
+
+Tools include:
+- **Ethno Probing**. Establish areas of priority and needs.
+- **Storytelling**. Tell stories via audio, video, and journey mapping.
+- **Insight Studies**. Diary studies over time to monitor real-time, ongoing use and retention.
