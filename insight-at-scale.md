@@ -115,3 +115,7 @@ Tools include:
 Organizations used to be silo’d. Progressive organizations are experience-driven and have data flowing into and out of the UX team all the time.
 
 Strategy should match culture.
+
+“At its core, all business is about making bets on human behavior.”
+
+“Emotion is the new brand value. It cannot be bought, it is earned through trust over time. If you are not meeting actual needs, your product will fail.”
