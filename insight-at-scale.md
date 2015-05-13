@@ -49,3 +49,40 @@
 
 
 ## Data Science and Design: A Tale of Two Tribes
+- Big data is not a panacea. Won’t cure every problem.
+- Data Scientist is part stats geek, part hacker, part entrepreneur.
+- Intuit’s Design for Delight
+	- Develop deep customer empathy
+	- Go broad to go narrow
+	- Rapid experiments with customers
+- How can designers and data scientists work together?
+
+“The value of an idea lies in the using of it.” - Thomas Edison
+
+- When building something, consider the product, users, and payoff.
+- Always have a metric for success.
+- Focus on leading indicators, not lagging indicators. Don’t fall into the trap of only measuring the end of a process.
+
+Example:
+**Lagging Indicators**
+- A/B Testing Platform Success
+- Experiments Per Week
+- New End-User Features
+
+**Leading Indicators**
+- Ease of use of platform
+	- Number of users vs. target
+	- Time to consumption
+- Awareness of platform across dev community
+	- Visits to services directory
+	- Enhancements Requested
+- Quality of Platform
+	- Uptime
+	- Time to Insight
+- Ease of Implementing Change
+	- Test results reflect reality?
+	- Enhancement backlog
+
+1. **Data shifts the conversation from “I think” to “I know.”**
+2. **Data brings focus to the design process.**
+3. **Design brings data to life.**
